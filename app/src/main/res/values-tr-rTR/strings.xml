@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Park Map</string>
+    <string name="external_permission_request_toast">Bu özelliği kullanmak için kamera ve medya izni vermeniz gerekiyor.</string>
+    <string name="park_location_saved">Park konumu kaydedildi</string>
+    <string name="cold_not_find_location">Konumunuz bulunamadı</string>
+    <string name="unavailable_location_service">Konum servisleri kullanılamıyor!</string>
+    <string name="park_address">Park yeri adresi:</string>
+    <string name="could_not_find_saved">Kaydedilmiş konum bulunamadı</string>
+    <string name="issue_with_saved">Kaydedilmiş konum ile ilgili bir sorun var</string>
+    <string name="opening_maps">Google Haritalar Açılıyor</string>
+    <string name="directions_for_this_location">Bu konuma yol tarifi açılacak</string>
+    <string name="saved_locations_title">Kayıtlı Konumlar</string>
+    <string name="empty_list">Liste Boş</string>
+    <string name="delete_save_message">Bu kayıdı kalıcı olarak silmek istiyor musunuz</string>
+    <string name="delete_successful">Silme başarılı</string>
+    <string name="button_save">Kaydet</string>
+    <string name="textview_pictures">Resimler</string>
+    <string name="description_textview">Açıklama</string>
+    <string name="hint_description_editview">Bir açıklama giriniz</string>
+    <string name="navigation_button">Yol Tarifi</string>
+    <string name="loading_textview">Yükleniyor...</string>
+</resources>

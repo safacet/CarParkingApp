@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Park Map</string>
+    <string name="external_permission_request_toast">You need to allow camera and media access to use this feature</string>
+    <string name="park_location_saved">Park location has been saved</string>
+    <string name="cold_not_find_location">Could not find your location</string>
+    <string name="unavailable_location_service">Location services are unavailable!</string>
+    <string name="park_address">Park address:</string>
+    <string name="could_not_find_saved">Could not find saved location</string>
+    <string name="issue_with_saved">There is an issue with the saved location</string>
+    <string name="opening_maps">Opening Google Maps</string>
+    <string name="directions_for_this_location">Directions for this location will be open</string>
+    <string name="saved_locations_title">Saved Locations</string>
+    <string name="empty_list">Empty List</string>
+    <string name="delete_save_message">Do you want to delete this save permanently</string>
+    <string name="delete_successful">Successfully deleted!</string>
+    <string name="button_save">Save</string>
+    <string name="textview_pictures">Pictures</string>
+    <string name="description_textview">Description</string>
+    <string name="hint_description_editview">Enter a description…</string>
+    <string name="navigation_button">Navigation</string>
+    <string name="loading_textview">Loading…</string>
+</resources>
